@@ -1,0 +1,25 @@
+
+.btn
+{
+    margin: 10px;
+
+}
+
+.border
+{
+    margin: 10px;
+    border-size:1px;
+    border-style:solid;
+    border-color:black;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url(../images/BG2.jpg) no-repeat;
+    /*background-size: cover;*/
+    /*background-weight: 100%;*/
+    -moz-background-size: cover; /* Firefox 3.6+ */
+    -webkit-background-size: cover; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: cover; /* Opera 9.6+ */
+    background-size: cover; /* Современные браузеры */
+}
